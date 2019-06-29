@@ -7,6 +7,7 @@
     D:\curl-7.62.0-win64-mingw\bin\curl http://10.108.255.249/include/auth_action.php -d "action=login&username=******&password=******&ac_id=1&ajax=1"
 ```
 把username=****** 中的 ****** 替换成自己的学号
+
 把password=****** 中的 ****** 替换成自己的密码
 
 前面的D:\是默认你解压到D盘根目录，如果你解压到其他目录，也要随之替换。
